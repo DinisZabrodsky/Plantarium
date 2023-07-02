@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plantarium/static/css/main.7acaea2f.css",
+    "main.js": "/Plantarium/static/js/main.5297b0ce.js",
+    "index.html": "/Plantarium/index.html",
+    "main.7acaea2f.css.map": "/Plantarium/static/css/main.7acaea2f.css.map",
+    "main.5297b0ce.js.map": "/Plantarium/static/js/main.5297b0ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.5297b0ce.js"
+  ]
+}
